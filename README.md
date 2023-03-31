@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm ArunKumar Menon</h1><br>
-<p align='center' style='margin: 16px 4px 8px;'>
+<h2 align="center">I am a Java & SpringBoot developer with a passion for creating innovative web applications. <h2>
 
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -12,9 +12,6 @@
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-arunmenon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menon-arun/)](https://www.linkedin.com/in/menon-arun/)
 [![Gmail Badge](https://img.shields.io/badge/-menonarun23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menonarun23@gmail.com)](mailto:menonarun23@gmail.com)
-
-
-
 
 
 ## ⚡ Technologies
