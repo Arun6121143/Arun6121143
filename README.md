@@ -12,7 +12,7 @@
 <img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47wnqxrejbymxrtw7460v973rommncv00pdwxbupoz&rid=200.webp&ct=g" align="center" style="width: 30%" />
 </div> -->
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm ArunKumar Menon</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm ArunKumar Menon</h1><br>
 <h3 align="center">Aspiring Java & SpringBoot Developer with a passion for developing innovative web applications</h3>
 
 
