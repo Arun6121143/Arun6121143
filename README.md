@@ -21,11 +21,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Arun6121143)
 
-- 💬 Ask me about **Java,Html,Css.**
+- 💬 Ask me about **Java,HTML,CSS.**
 
 - 📫 How to reach me **menonarun23@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18pb5KUwzXRxKHYLpvGcRy2L6fQocaaa4/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18pb5KUwzXRxKHYLpvGcRy2L6fQocaaa4/view?usp=drivesdk)
 
 
 ## Connect with me
