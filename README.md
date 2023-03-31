@@ -1,6 +1,15 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
+ 
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
+
+<!-- <div align="center">
+<img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47wnqxrejbymxrtw7460v973rommncv00pdwxbupoz&rid=200.webp&ct=g" align="center" style="width: 30%" />
+</div> -->
+
 
 ### <div align="center">Hi 👋, I'm ArunKumar Menon, Aspiring Java & SpringBoot Developer with a passion for developing innovative web applications.</div> 
 
@@ -8,17 +17,20 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arun6121143](https://github.com/Arun6121143)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Arun6121143)
 
 - 💬 Ask me about **Java,Html,Css.**
 
 - 📫 How to reach me **menonarun23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18pb5KUwzXRxKHYLpvGcRy2L6fQocaaa4/view?usp=drivesdk](https://drive.google.com/file/d/18pb5KUwzXRxKHYLpvGcRy2L6fQocaaa4/view?usp=drivesdk)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18pb5KUwzXRxKHYLpvGcRy2L6fQocaaa4/view?usp=drivesdk)
+
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-arunmenon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menon-arun/)](https://www.linkedin.com/in/menon-arun/)
 [![Gmail Badge](https://img.shields.io/badge/-menonarun23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menonarun23@gmail.com)](mailto:menonarun23@gmail.com)
+
+
 
 
 
