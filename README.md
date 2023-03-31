@@ -6,14 +6,16 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 
+
+
 <!-- <div align="center">
 <img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47wnqxrejbymxrtw7460v973rommncv00pdwxbupoz&rid=200.webp&ct=g" align="center" style="width: 30%" />
 </div> -->
 
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm ArunKumar Menon</h1>
+<h3 align="center">Aspiring Java & SpringBoot Developer with a passion for developing innovative web applications</h3>
 
-### <div align="center">Hi 👋, I'm ArunKumar Menon, Aspiring Java & SpringBoot Developer with a passion for developing innovative web applications.</div> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arun6121143&label=Profile%20views&color=0e75b6&style=flat" alt="arun6121143" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
